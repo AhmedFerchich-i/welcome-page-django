@@ -19,7 +19,7 @@
 
 img{
     width: 100%;
-    height: 30%;
+    height: 100%;
 }
 
 .text-container{
@@ -27,4 +27,7 @@ img{
     font-weight: bolder;
     
     
+}
+html,body{
+    height: 100%;
 }
